@@ -1,12 +1,12 @@
-Summary:	LDP System Administrator's Guide
-Summary(pl):	Podrêcznik Administratora Systemu LDP
+Summary:	Advenced Bash Scripting Guide
+Summary(pl):	Zaawansowany podrêcznik programowania w Bash'u
 Name:		abs-guide
-Version:	2.0
+Version:	2.1
 Release:	1
 License:	distributable
 Group:		Documentation
 Source0:	http://www.tldp.org/LDP/abs/%{name}.html.tar.gz
-# Source0-md5:	94ee1e0b4d41bab49f39c49b57ce41e8
+# Source0-md5:	cf1483577ecd90d3d56d4393fbfd144f
 URL:		http://www.tldp.org/LDP/abs/html/index.html
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
