@@ -1,12 +1,12 @@
 Summary:	LDP System Administrator's Guide
 Summary(pl):	Podrêcznik Administratora Systemu LDP
 Name:		abs-guide
-Version:	1.7
+Version:	2.0
 Release:	1
 License:	distributable
 Group:		Documentation
 Source0:	http://www.tldp.org/LDP/abs/%{name}.html.tar.gz
-# Source0-md5:	6d7b9f3a3b879260efd6ae7359fea64a
+# Source0-md5:	94ee1e0b4d41bab49f39c49b57ce41e8
 URL:		http://www.tldp.org/LDP/abs/html/index.html
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
