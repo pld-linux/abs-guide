@@ -1,12 +1,12 @@
 Summary:	Advenced Bash Scripting Guide
 Summary(pl):	Zaawansowany podrêcznik programowania w Bashu
 Name:		abs-guide
-Version:	3.1
+Version:	3.2
 Release:	1
 License:	distributable
 Group:		Documentation
 Source0:	http://www.tldp.org/LDP/abs/%{name}.html.tar.gz
-# Source0-md5:	6709f0af5fb07d0f3004afce93938b89
+# Source0-md5:	8dce9d0268e4a3cc16ba3349deb52763
 URL:		http://www.tldp.org/LDP/abs/html/index.html
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
