@@ -1,7 +1,7 @@
 Summary:	LDP System Administrator's Guide
 Summary(pl):	Podrêcznik Administratora Systemu LDP
 Name:		abs-guide
-Version:	1.5
+Version:	1.7
 Release:	1
 License:	distributable
 Group:		Documentation
@@ -22,8 +22,8 @@ or surpasses any of the shell scripting manuals in print.
 
 %description -l pl
 Ten dokument jest podrêcznikiem programowania w Bashu, zawiera
-tutorial i materia³y referencyjne. ¯eby czytaæ ten podrêcznik nie jest
-wymagana ¿adna wcze¶niejsza wiedza na temat programowania.
+tutorial i materia³y referencyjne. Nie jest wymagana wiedza na temat
+programowania, by zacz±æ czytaæ ten podrêcznik.
 
 %prep
 %setup -q -n %{name}
