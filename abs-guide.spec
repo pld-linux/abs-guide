@@ -1,5 +1,5 @@
 Summary:	Advenced Bash Scripting Guide
-Summary(pl):	Zaawansowany podrêcznik programowania w Bash'u
+Summary(pl):	Zaawansowany podrêcznik programowania w Bashu
 Name:		abs-guide
 Version:	2.1
 Release:	1
