@@ -22,7 +22,7 @@ or surpasses any of the shell scripting manuals in print.
 
 %description -l pl
 Ten dokument jest podrêcznikiem programowania w Bashu, zawiera
-tutorial i materia³y referencyjne. ¯eby czytaæ ten podêcznik nie jest
+tutorial i materia³y referencyjne. ¯eby czytaæ ten podrêcznik nie jest
 wymagana ¿adna wcze¶niejsza wiedza na temat programowania.
 
 %prep
