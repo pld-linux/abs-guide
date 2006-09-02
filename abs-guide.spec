@@ -1,6 +1,6 @@
 # TODO
 # - update pl
-Summary:	Advenced Bash Scripting Guide
+Summary:	Advanced Bash Scripting Guide
 Summary(pl):	Zaawansowany podrêcznik programowania w Bashu
 Name:		abs-guide
 Version:	4.0
