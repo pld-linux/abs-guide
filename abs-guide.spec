@@ -35,7 +35,7 @@ programowania, by zacz±æ czytaæ ten podrêcznik.
 %install
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT%{_docdir}/LDP/abs-guide
-cp -ar * $RPM_BUILD_ROOT%{_docdir}/LDP/abs-guide
+cp -a * $RPM_BUILD_ROOT%{_docdir}/LDP/abs-guide
 
 %clean
 rm -rf $RPM_BUILD_ROOT
