@@ -1,5 +1,3 @@
-# TODO
-# - update pl
 Summary:	Advanced Bash Scripting Guide
 Summary(pl):	Zaawansowany podrêcznik programowania w Bashu
 Name:		abs-guide
@@ -25,9 +23,16 @@ to this document, as it evolves into a comprehensive book that matches
 or surpasses any of the shell scripting manuals in print.
 
 %description -l pl
-Ten dokument jest podrêcznikiem programowania w Bashu, zawiera
-tutorial i materia³y referencyjne. Nie jest wymagana wiedza na temat
-programowania, by zacz±æ czytaæ ten podrêcznik.
+Ten dokument jest podrêcznikiem programowania w Bashu, zawieraj±cym
+tutorial i materia³y referencyjne. Do czytania nie wymaga wiedzy na
+temat programowania czy pisania skryptów, ale szybko przechodzi do
+instrukcji na ¶rednim i zaawansowanym poziomie. Æwiczenia i dobrze
+skomentowane przyk³ady zachêcaj± do aktywnego uczestnictwa czytelnika.
+Podrêcznik wci±¿ jest w trakcie pisania. Intencj± jest dodanie do
+niego w przysz³ych wydaniach jak najwiêkszej ilo¶ci materia³ów
+uzupe³niaj±cych, ¿eby wyewoluowa³ do wyczerpuj±cej ksi±¿ki
+odpowiadaj±cej albo nawet przewy¿szaj±cej dostêpne podrêczniki
+dotycz±ce pisania skryptów.
 
 %prep
 %setup -q -n %{name}
