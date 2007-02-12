@@ -1,5 +1,5 @@
 Summary:	Advanced Bash Scripting Guide
-Summary(pl.UTF-8):   Zaawansowany podręcznik programowania w Bashu
+Summary(pl.UTF-8):	Zaawansowany podręcznik programowania w Bashu
 Name:		abs-guide
 Version:	4.2.01
 Release:	1
