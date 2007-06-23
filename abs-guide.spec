@@ -1,12 +1,12 @@
 Summary:	Advanced Bash Scripting Guide
 Summary(pl.UTF-8):	Zaawansowany podręcznik programowania w Bashu
 Name:		abs-guide
-Version:	4.3
+Version:	5.0
 Release:	1
 License:	distributable
 Group:		Documentation
 Source0:	http://www.tldp.org/LDP/abs/%{name}.html.tar.gz
-# Source0-md5:	6c33f123f24ef9fdd1330c31c0490eab
+# Source0-md5:	80c0f9058ee0f1ba36eb30d865e0b43b
 URL:		http://www.tldp.org/LDP/abs/html/index.html
 Requires:	LDP-base
 BuildArch:	noarch
